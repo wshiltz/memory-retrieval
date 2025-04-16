@@ -4,8 +4,7 @@ import shutil
 
 # Randomly selects x images from one directory to move to another directory
 def main():
-    count = 800
-    # I used ./piscDataset and ./examplePhotos/pisc respectivly
+    count = 2000
     datasetDir = "INSERT INITIAL DATASET DIRECTORY HERE"
     subsetDir = "INSERT DESTINATION DIRECTORY HERE"
     
