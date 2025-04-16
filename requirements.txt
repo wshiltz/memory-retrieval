@@ -1,1 +1,13 @@
-#Coming Soon
+transformers
+pillow
+reportlab
+ipykernel
+tqdm
+faiss-gpu
+torch
+clip
+kagglehub
+matplotlib
+pandas
+datasets
+deepface
